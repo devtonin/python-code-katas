@@ -2,12 +2,12 @@ def reverse_list(head):
     anterior = None
     atual = head
 
-    while atual: # != None
-        next = atual.next
+    while atual:  # != None
+        nextt = atual.next
         atual.next = anterior
 
         anterior = atual
-        atual = next
+        atual = nextt
     return anterior
 
 

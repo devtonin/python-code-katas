@@ -8,4 +8,4 @@
 
 ## ⚛️ Difficulties: Easy, Medium
 
-![code-katas](1520214310858.jpeg)
+![code-katas](code-katas-cat.jpeg)
